@@ -1,2 +1,5 @@
 hello i am tom
-create bt login
+<<<<<<< HEAD
+
+update by master
+
