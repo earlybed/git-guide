@@ -1,5 +1,4 @@
 hello i am tom
-<<<<<<< HEAD
 
 update by master
 
